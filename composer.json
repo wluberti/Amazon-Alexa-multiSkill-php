@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jakubsuchy/amazon-alexa-php": "^0.1.6"
+    }
+}

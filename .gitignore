@@ -1,0 +1,14 @@
+### PhpStorm ###
+.idea
+
+### Composer ###
+/vendor/
+
+### Configuration files ###
+**.json
+!**.json_example
+!composer.json
+
+### Test files ###
+**/test.php
+**.log

@@ -1,0 +1,7 @@
+{
+    "applicationId": "amzn1.ask.skill.YOUR_APPLICATION_ID",
+    "intentMapping": {
+        "numberOneIntent": "functionOne",
+        "numberTwoIntent": "functionTwo",
+    }
+}
